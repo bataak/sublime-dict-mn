@@ -2,5 +2,5 @@
 
 Монгол үгийн алдаа шалгах толь, Mongolian spell checking dictionary
 
-# Credits
+## Credits
 [wbond - Sublime Package Control](https://sublime.wbond.net/)
